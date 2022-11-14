@@ -1,3 +1,4 @@
 # CS182-CV-Report
 
-<image src="CS_182_Vision_Final_Project.pdf"/>
+<object data="./CS_182_Vision_Final_Project.pdf" type="application/pdf" width="700px" height="700px">
+</object>
