@@ -1,4 +1,4 @@
-# UC Berkeley CS 182/282: Test-Time Search Methods for Adversarial Robustness
+# CS 182/282: Test-Time Search Methods for Adversarial Robustness
 
 Note that the code for this report is private due to the course's policy.
 
