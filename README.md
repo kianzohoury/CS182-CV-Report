@@ -1,4 +1,4 @@
-# CS182-CV-Report
+# CS182/282 Final Report 
 
 <img src="pages/CS_182_Vision_Final_Project-1.png">
 <img src="pages/CS_182_Vision_Final_Project-2.png">
